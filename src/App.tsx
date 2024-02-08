@@ -27,7 +27,7 @@ export default function Page() {
       "SO HOW BOUT NOWW?",
       "ARE YOU REALLY SURE?",
       "REALLY REALLY SURE?",
-      "IMA DIE NOW ;(",
+      "IMA DIE NOW;(",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
